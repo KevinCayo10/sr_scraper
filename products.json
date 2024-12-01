@@ -1,0 +1,64 @@
+[
+{
+    "title": "Laptop 15,6″ FHD, Core i7 12va, Ram 8Gb, Ssd 512Gb – Dell 3520",
+    "price": "695.00",
+    "urlImg": [
+        "https://tecnogame.ec/wp-content/uploads/2022/11/Dell-3520.jpg",
+        "https://tecnogame.ec/wp-content/plugins/commercegurus-commercekit/assets/images/spacer.png",
+        "https://tecnogame.ec/wp-content/plugins/commercegurus-commercekit/assets/images/spacer.png"
+    ],
+    "link": "https://tecnogame.ec/comprar/laptop-dell-3520-core-i7-12va-gen-ssd-512gb/",
+    "description": "Modelo: DELL 3525 Procesador: i7 12va Gen Sistema operativo: W10 Pro o W11 Pro Almacenamiento SSD 512Gb Ram DDR4: 8GB (Expandible a 16GB) Pantalla 15.6 Pulgadas Full HD",
+    "characteristics": {
+        "sistema_operativo": null,
+        "procesador": "Core i7",
+        "ram": "512Gb",
+        "almacenamiento": "512Gb",
+        "pantalla": {
+            "tamaño": "15.6 Pulgadas",
+            "tipo": null
+        },
+        "graficos": "Otra",
+        "conectividad": null,
+        "teclado": null,
+        "audio": null,
+        "puertos": null
+    },
+    "category": "Laptops",
+    "brand": "Dell",
+    "stock": -1,
+    "availability": "Stock"
+},
+{
+    "title": "Laptop 15,6″ Fhd, Ryzen 7 5700U, Ram 16Gb, Ssd 512Gb – Dell 3525",
+    "price": "629.00",
+    "urlImg": [
+        "https://tecnogame.ec/wp-content/uploads/2023/12/DELL-INSPIRION-3525-RYZEN-7-5700U.jpg",
+        "https://tecnogame.ec/wp-content/plugins/commercegurus-commercekit/assets/images/spacer.png",
+        "https://tecnogame.ec/wp-content/plugins/commercegurus-commercekit/assets/images/spacer.png",
+        "https://tecnogame.ec/wp-content/plugins/commercegurus-commercekit/assets/images/spacer.png",
+        "https://tecnogame.ec/wp-content/plugins/commercegurus-commercekit/assets/images/spacer.png"
+    ],
+    "link": "https://tecnogame.ec/comprar/laptop-dell-3525-ryzen-7-5700u-16gb-500gb/",
+    "description": "Modelo: Dell 3525 Procesador: Ryzen 7 5700u Sistema operativo: W10 o W11 Almacenamiento SSD 512GB Ram DDR4: 16GB Pantalla 15.6 Pulgadas FHD",
+    "characteristics": {
+        "sistema_operativo": null,
+        "procesador": "Ryzen 7 5700u",
+        "ram": "512GB",
+        "almacenamiento": "512GB",
+        "pantalla": {
+            "tamaño": "15.6 Pulgadas",
+            "tipo": null
+        },
+        "graficos": "Otra",
+        "conectividad": null,
+        "teclado": null,
+        "audio": null,
+        "puertos": null
+    },
+    "category": "Laptops",
+    "brand": "Dell",
+    "stock": -1,
+    "availability": "Agotado"
+}
+]
